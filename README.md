@@ -6,6 +6,6 @@ Nome: Felipe Pereira Meschiatti, RM: 551978;
 
 Nome: Vitória Cerqueira, RM: 552509;
 
-Nome: Leonardo Queiroz, RM: ;
+Nome: Leonardo Queiroz, RM: 552500;
 
 Nome: Pedro Henrique Sodré Rehem, RM: 98834.
